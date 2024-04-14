@@ -1,5 +1,6 @@
 {
-  "name": "click-and-pay",
+  "name": "my-vite-project",
+  "homepage": ".",
   "private": true,
   "proxy": "https://api-deploy-wham.onrender.com",
   "version": "0.0.0",
